@@ -1,4 +1,4 @@
-# eXch.net (Formally eXch.cx) Hot-Wallet Info
+# eXch.net (previously eXch.cx) Hot-Wallet Info
 
 Total Chart - [Arkham Filtered >$100k and since 10th April](https://intel.arkm.com/visualizer/entity/bc1qu2dq8w8lv8v3l7lr2c5tvx3yltv22r3nhkx7w0?flow=out&positions=%7B%22bc1q2vgnss52ks4048ywpkjhhaucr3qxua53fzpjcr%22%3A%7B%22fx%22%3A111%2C%22fy%22%3A-37%7D%2C%22bc1qxmymxf8p5ckvlxkmkwgw8ap5t2xuaffmrpexap%22%3A%7B%22fx%22%3A112%2C%22fy%22%3A-24%7D%2C%22bc1qnxq40t7h445qwllwmxqtshdq2e27jn9nzakk2g%22%3A%7B%22fx%22%3A113%2C%22fy%22%3A-12%7D%2C%22bc1q0hu7hpddemtq7qzj6gdxv83g5vly4gsvmsdjy4%22%3A%7B%22fx%22%3A113%2C%22fy%22%3A0%7D%2C%22bc1q98z6m45gx3exd8hzzwy5hmhuyeecugl7rhr7c2%22%3A%7B%22fx%22%3A113%2C%22fy%22%3A-48%7D%2C%22bc1qujynp4rm9pn3jtzzm5d3uctsr6gd7kehv7aham%22%3A%7B%22fx%22%3A113%2C%22fy%22%3A-58%7D%2C%22exch%22%3A%7B%22fx%22%3A53%2C%22fy%22%3A-28%7D%2C%22thorchain%22%3A%7B%22fx%22%3A113%2C%22fy%22%3A33%7D%7D&sortDir=desc&sortKey=time&timeGte=1741910400000&timeLte=1744066799999&usdGte=100000)
 ![[Screenshot 2025-04-07 at 23.25.27.png|450]]
