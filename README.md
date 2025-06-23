@@ -100,8 +100,8 @@ https://thorchain.net/address/bc1qu2dq8w8lv8v3l7lr2c5tvx3yltv22r3nhkx7w0
 0xc6c85ef949785b4d72f8c70332d65b12fa3f54fb
 ```
 
-### eXch.cx Hot Wallet (ETH) Being used to accumulated ETH
-(0x81eD0e493175888CdE13Eed06ec3daCd04A19032 was the Deposit address). They might be accumulating to then use deposits of ETH as their liquidity for the new Hot Wallet? More to come.
+### eXch.cx Hot Wallet (ETH) (TESTED) 07/04/2025 - 11/04/2025 Used for small deposits -> goes to ThorChain
+0xe0d02c9F9deAf6857cdf6C4F2CC6ff54A36EF5a2
 ```
 0xe0d02c9F9deAf6857cdf6C4F2CC6ff54A36EF5a2
 ```
